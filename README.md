@@ -44,7 +44,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86747062/173285355-1f88c8b1-a9d9-48cd-8649-27c12ba99fa2.gif)
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86747062/173286814-1b983c2c-ade8-4667-84bc-98ea1ac47911.gif)
-![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/86747062/173286759-f33a8392-4a5a-4eda-93c6-8ba9118a52ac.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86747062/173287558-bcb1f71d-d0d0-49d3-9a0b-ca7d2fe44960.gif)
+
 
 
 ### Reflection
@@ -59,7 +60,7 @@ If I had more time, I would have liked to implement the pop up feature because I
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-Add your response here
+The thing that went well was actually getting the information from the API and be able to display it in a grid. The main part the didn't go well was make the website visually pleasing. After seeing the peers projects, at first I felt discourage because their project was so good. It took me a while to instead feeling bad for myself, I used it as motivation to make my project better. 
 
 ### Open-source libraries used
 
