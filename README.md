@@ -68,4 +68,4 @@ The thing that went well was actually getting the information from the API and b
 
 ### Shout out
 
-Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
+I would like to give a shoutout to all the TA's that helped me because everytime they saw I implemented a new feature they congratulated me and it gave me more motivation to continue and not give up.
