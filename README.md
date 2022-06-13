@@ -44,17 +44,19 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 `ADD_EMBEDDED_CODE_HERE`
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/86747062/173285355-1f88c8b1-a9d9-48cd-8649-27c12ba99fa2.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86747062/173286814-1b983c2c-ade8-4667-84bc-98ea1ac47911.gif)
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/86747062/173286759-f33a8392-4a5a-4eda-93c6-8ba9118a52ac.gif)
 
 
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
 
-Add your response here
+The third lab was the main topic that helped me complete the assignment because it was important how to understand and get the data from the API. If I didn't get knowledge from that lab, it would be impossible to finish the lab because the project would have no information to display. The feature of making the webpage visually appealing was the feature that I felt unprepared to complete because I find it difficult to understand how the CSS properties work. In addition, I had finals throughout thsi week so I couldn't devote my time to fully understand each concept taught during the week.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
   
-Add your response here
+If I had more time, I would have liked to implement the pop up feature because I believe that was the best feature to implement. I would have properly spend more time on the functionality of the program rather than the visual asthetic. In addition, I would have like to add more features to the movie card like hover properties and more.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
